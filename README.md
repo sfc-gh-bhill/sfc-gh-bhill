@@ -14,6 +14,7 @@ Solutions built for specific customer engagements. Private by default.
 | Repo | Description | Status |
 |------|-------------|--------|
 | [customer-nmdp-cart-pathology-intelligence](https://github.com/sfc-gh-bhill/customer-nmdp-cart-pathology-intelligence) | CAR-T Pathology Intelligence: Document AI pipeline for pathology report processing | Active |
+| [customer-nmdp-donor-for-all-data-lab](https://github.com/sfc-gh-bhill/customer-nmdp-donor-for-all-data-lab) | Donor for All Data Lab: Forecasting GVHD with Snowflake Intelligence (public) | Active |
 
 ### Internal Tools (`internal-*`)
 Snowflake internal utilities and tooling.
